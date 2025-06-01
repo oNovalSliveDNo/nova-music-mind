@@ -1,0 +1,2 @@
+pygame==2.6.1
+python-vlc==3.0.21203
